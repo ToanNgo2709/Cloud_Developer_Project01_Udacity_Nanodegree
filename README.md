@@ -1,4 +1,4 @@
-# Cloud_Developer_Project01_Udacity_Nanodegree - Project 01
+# Cloud_Developer_Project01_Udacity_Nanodegree
 ## Website URL: 
 - http://project-01-john-ngo.s3-website-us-east-1.amazonaws.com/
 - https://d34p4il2wojbcp.cloudfront.net
