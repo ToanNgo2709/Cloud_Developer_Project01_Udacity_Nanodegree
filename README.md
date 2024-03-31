@@ -8,6 +8,7 @@
 - S3 Bucket: ![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/2791f035-cb52-4585-8c72-3beab8956f22)
 - Bucket's files: ![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/b79712cb-358c-45b8-a18e-a2b11863bfcd)
 - Bucket's policy: ![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/1756fed0-946f-4e07-80a7-c49096296483)
+- The S3 bucket is configured to support static website hosting.: ![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/06acc986-3064-4086-ae58-0c69a51b5c65)
 
 ## Website Distribution:
 - CloudFront: ![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/5b1afcae-52a6-4868-8bee-29beba78b9c8)
