@@ -1,5 +1,8 @@
-![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/9b124cd8-bc53-48da-855c-0551119e2066)![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/2e449391-d3f9-4562-b18a-f6ab6fa9e7e0)![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/431053fc-17bb-4e53-a973-9047a56ed90a)﻿# Cloud_Developer_Project01_Udacity_Nanodegree - Project 01
-## Website URL: http://project-01-john-ngo.s3-website-us-east-1.amazonaws.com/
+# Cloud_Developer_Project01_Udacity_Nanodegree - Project 01
+## Website URL: 
+- http://project-01-john-ngo.s3-website-us-east-1.amazonaws.com/
+- https://d34p4il2wojbcp.cloudfront.net
+- https://project-01-john-ngo.s3.amazonaws.com/index.html
  
 ## Website Files:
 - S3 Bucket: ![image](https://github.com/ToanNgo2709/Cloud_Developer_Project01_Udacity_Nanodegree/assets/45133814/2791f035-cb52-4585-8c72-3beab8956f22)
